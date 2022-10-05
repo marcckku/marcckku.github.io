@@ -1,7 +1,8 @@
 
- ### GitHub Pages - First Page of templates of my Bootstrap examples .
+>### GitHub Pages - First Page of templates of my Bootstrap examples .
 *** 
- THIS IS MY FIRST EXAMPLE OF BOOTSTRAP ON SITE (GITHUB PAGES)
-
+> This Page has been created with Bootstrap, customized Css and https://summernote.org/ for this editing.text.
 ***
-My Site on GitHub : https://marcckku.github.io/index.html 
+> Follow this tutorial for create your own page on 'GitHub Page' https://pages.github.com/.
+***
+> My Site on GitHub Pages https://marcckku.github.io/index.html.
