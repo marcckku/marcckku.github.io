@@ -4,4 +4,4 @@
  THIS IS MY FIRST EXAMPLE OF BOOTSTRAP ON SITE (GITHUB PAGES)
 
 ***
-SITE : marcckku.github.io
+My Site on GitHub : https://marcckku.github.io/index.html 
